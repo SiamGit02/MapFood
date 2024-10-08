@@ -1,0 +1,12 @@
+// foreach($result as $row){
+    //     echo "<tr>";
+    //     $item_name = $row['item_name'];
+    //     $price = $row['price'];
+        
+    //     echo "<td>" . $item_name . "</td>";
+    //     echo "<td>" . $row['description'] . "</td>";
+    //     echo "<td>" . $price . "</td>";
+    //     echo "<td><input type='number' name='quantity' id='quantity' min='0' max='100'></td>";
+    //     echo "</tr>";
+        
+    // }
